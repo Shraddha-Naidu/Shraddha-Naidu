@@ -1,4 +1,4 @@
-![README Banner]()
+[![README Banner]()]
 
 [![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddha-Naidu&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
