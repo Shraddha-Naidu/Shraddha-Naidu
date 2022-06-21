@@ -1,4 +1,4 @@
-[![README Banner](https://github.com/Shraddha-Naidu/banner-files/blob/main/banner.png)]
+![README Banner](https://github.com/Shraddha-Naidu/banner-files/blob/main/banner.png)
 
 [![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddha-Naidu&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
