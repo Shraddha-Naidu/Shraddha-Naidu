@@ -13,10 +13,11 @@ Text   44 mins         ███████████████████
 
 
 
-- 🔭 I’m currently working on a Pacman clone
-- 🌱 I’m currently learning Python and the basics of Sketch
 
 <!--
+#### A little abo
+- 🔭 I’m currently working on a Pacman clone
+- 🌱 I’m currently learning Python and the basics of Sketch
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
