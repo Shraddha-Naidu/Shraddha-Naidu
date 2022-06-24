@@ -4,6 +4,11 @@
 
 ##What languages I worked in this week:
 <!--START_SECTION:waka-->
+
+```text
+Text   44 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
