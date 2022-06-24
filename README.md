@@ -2,6 +2,10 @@
 
 [![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddha-Naidu&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+##What languages I worked in this week:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 Here are some ideas to get you started:
