@@ -2,7 +2,7 @@
 
 [![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddha-Naidu&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##What languages I worked in this week:
+#### Languages worked in this week:
 <!--START_SECTION:waka-->
 
 ```text
@@ -12,11 +12,11 @@ Text   44 mins         ███████████████████
 <!--END_SECTION:waka-->
 
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a Pacman clone
+- 🌱 I’m currently learning Python and the basics of Sketch
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
