@@ -6,9 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML             1 hr 24 mins    ██████████████████████▓░░   91.15 %
-Sketch Drawing   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+HTML             55 mins         ██████████████████████░░░   88.43 %
+Sketch Drawing   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
 ```
 
 <!--END_SECTION:waka-->
