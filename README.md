@@ -6,8 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML             55 mins         ██████████████████████░░░   88.43 %
-Sketch Drawing   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+HTML             26 mins         ███████████████████▓░░░░░   78.51 %
+Sketch Drawing   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
 ```
 
 <!--END_SECTION:waka-->
