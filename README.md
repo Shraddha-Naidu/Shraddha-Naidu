@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Sketch Drawing   7 mins          ██████████████▒░░░░░░░░░░   57.15 %
-HTML             5 mins          ██████████▓░░░░░░░░░░░░░░   42.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
